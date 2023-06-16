@@ -77,12 +77,12 @@ Here are some of the technologies and tools in which I have experience or specia
 
 [![dmatsanganis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmatsanganis&count_private=true&show_icons=true&theme=omni)](https://github.com/dmatsanganis)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aspil)
-
 <a href="https://github.com/dmatsanganis">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dmatsanganis&theme=dark" alt="Dimitris' GitHub Stats" />
 </a>
 
-<a href="https://github.com/dmatsanganis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmatsanganis&count_private=truex&theme=dark&langs_count=3" />
-</a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aspil)
+
+
+
+
