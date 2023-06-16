@@ -84,5 +84,5 @@ Here are some of the technologies and tools in which I have experience or specia
 
 
 
-![dmatsanganis' GitHub stats](https://github-readme-stats.vercel.app/api?username=dmatsanganis&count_private=true&show_icons=true&theme=omni&hide=contribs,issues)
+![dmatsanganis' GitHub stats](https://github-readme-stats.vercel.app/api?username=dmatsanganis&show_icons=true&theme=omni&hide=contribs,issues)
 
