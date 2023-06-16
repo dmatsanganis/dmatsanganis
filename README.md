@@ -75,7 +75,6 @@ Here are some of the technologies and tools in which I have experience or specia
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmatsanganis&layout=compact)](https://github.com/dmatsanganis)
 
-[![dmatsanganis' GitHub stats](https://github-readme-stats.vercel.app/api?username=dmatsanganis&count_private=true&show_icons=true&theme=omni)](https://github.com/dmatsanganis)
 
 [![dmatsanganis' GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=dmatsanganis&theme=omni)](https://github.com/dmatsanganis)
 
