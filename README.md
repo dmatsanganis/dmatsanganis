@@ -77,6 +77,8 @@ Here are some of the technologies and tools in which I have experience or specia
 
 [![dmatsanganis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmatsanganis&count_private=true&show_icons=true&theme=omni)](https://github.com/dmatsanganis)
 
+[![dmatsanganis's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=dmatsanganis&theme=omni)](https://github.com/dmatsanganis)
+
 <a href="https://github.com/dmatsanganis">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dmatsanganis&theme=dark" alt="Dimitris' GitHub Stats" />
 </a>
