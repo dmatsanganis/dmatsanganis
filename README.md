@@ -10,7 +10,7 @@ I am a computer science graduate from the University of Piraeus, currently pursu
 
 As the saying goes, "From building code to building strategies, I traded my keyboard for a new set of tools." As a Software Engineer turned Business Analyst, I bring a unique perspective to the table, bridging the gap between technology and business to drive meaningful results. I am excited about the challenges and opportunities that lie ahead, and I am confident that my skills and experiences make me a valuable asset to any organization.
 
-### Technical Expertise:
+### Technical Expertise: 
 
 Here are some of the technologies and tools in which I have experience or specialize:
 
