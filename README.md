@@ -59,7 +59,7 @@ Here are some of the technologies and tools in which I have experience or specia
 <a href="mailto:dmatsanganis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dmatsanganis/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/dmatsanganis/badges)
-
+   
 
 ### My GitHub stats:
 
